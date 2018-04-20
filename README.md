@@ -1,5 +1,5 @@
 # Ways to Say LÖVE
-A Public Disambiguation for the Infamous Lua Game Framework
+A Public Disambiguation for the Eponymous Lua Game Framework
 
 -------------------------------------------------------------------------------
 

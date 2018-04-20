@@ -10,3 +10,5 @@ LOVE2D
 LÖVE
 LÖVE2d
 LÖVE2D
+
+(https://github.com/ItsSeaJay/ways-to-say-love/)
