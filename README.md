@@ -29,4 +29,4 @@ After all, it's not as if you can all stop worrying about it and get on with you
 This repository has been released under the terms of the MIT Open Source License.
 The name of the framework itself is a copyright/trademark of it's developers.
 
-** NOTE: This may or may not be satire.*
+*NOTE: This may or may not be satire.
