@@ -3,7 +3,7 @@ A Public Disambiguation for the Infamous Lua Game Framework
 
 -------------------------------------------------------------------------------
 
-...Or was it `löve` or even `Love2D`? No matter what you call it,
+Or was it `löve` or even `Love2D`? No matter what you call it,
 [LÖVE](http://love2d.org/)
 is an excellent way to make 2D video games with the Lua programming language.
 Regardless of it's quality, none of it's users can seem to agree on how to bring
@@ -13,10 +13,10 @@ Did they even stop to read your mind?
 
 This repository aims to fix that, by giving you the means to **throw every
 possible way of typing it at them at once.** Instead of using one method
-and hoping that the other people know what you're on about from prior context,
+and hoping that everyone else doesn't get confused,
 just provide a link to this repository.
 That way, the person - or people - on the other end will be in no position to correct you.
-After all, it's not as if you can stop worrying about it and get on with your life...
+After all, it's not as if you can all stop worrying about it and get on with your lives...*
 
 ## Credits
 - Based on an original idea by
@@ -29,4 +29,4 @@ After all, it's not as if you can stop worrying about it and get on with your li
 This repository has been released under the terms of the MIT Open Source License.
 The name of the framework itself is a copyright/trademark of it's developers.
 
-*NOTE: This may or may not be satire.*
+** NOTE: This may or may not be satire.*
